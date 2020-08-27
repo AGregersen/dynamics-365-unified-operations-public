@@ -39,6 +39,9 @@ Security and permissions
 
 The Test Data Transfer Tool (beta) requires only Microsoft SQL Server permissions.
 
+> [!Note]
+> The tool currently requires that SA is not the owner of the database.
+
 > [!WARNING]
 > The Test Data Transfer Tool (beta) does not in any way recognize the security mechanisms that are built into Microsoft Dynamics AX.
 
